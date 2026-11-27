@@ -8,7 +8,7 @@ colour tools, icons, illustrations, backgrounds and mockups.
 Every entry is tagged by **platform**, **occupation / industry**, **style**, **resource type**,
 **price** and **tech**. All links were checked on 2026-11-27.
 
-**Browse it online: https://adfleshner.github.io/LookLikeAiNoMore/**
+**Browse it online: https://thisguyneedsasite.com/LookLikeAiNoMore/**
 
 ![The catalog filtered to restaurant + editorial](docs/catalog.png)
 
