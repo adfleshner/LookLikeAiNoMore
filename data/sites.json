@@ -1,0 +1,4373 @@
+[
+ {
+  "name": "MotionSites",
+  "url": "https://motionsites.ai",
+  "type": "prompt-library",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "agency",
+   "portfolio",
+   "startup"
+  ],
+  "styles": [
+   "motion",
+   "3d",
+   "dark",
+   "gradient"
+  ],
+  "pricing": "paid",
+  "tech": [
+   "lovable",
+   "v0",
+   "cursor",
+   "bolt",
+   "claude"
+  ],
+  "description": "The reference point: copy-paste prompts for animated landing pages and hero sections, made for AI builders.",
+  "id": "motionsites"
+ },
+ {
+  "name": "VibUI",
+  "url": "https://vibui.dev",
+  "type": "prompt-library",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "agency",
+   "portfolio",
+   "startup",
+   "ecommerce"
+  ],
+  "styles": [
+   "motion",
+   "gradient",
+   "dark"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "lovable",
+   "v0",
+   "cursor",
+   "bolt",
+   "claude"
+  ],
+  "description": "Huge prompt library (full pages, sections, animated backgrounds) for AI website builders; browse free, one-time payment for source.",
+  "id": "vibui"
+ },
+ {
+  "name": "Anti-slop website prompts",
+  "url": "https://github.com/mah-claude/anti-slop-website-prompts",
+  "type": "prompt-library",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "agency",
+   "portfolio",
+   "startup"
+  ],
+  "styles": [
+   "editorial",
+   "bold",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "lovable",
+   "v0",
+   "cursor",
+   "bolt",
+   "claude"
+  ],
+  "description": "15 free art-directed build prompts written to avoid the generic 'AI look'.",
+  "id": "anti-slop-website-prompts"
+ },
+ {
+  "name": "Lovable Prompt Library",
+  "url": "https://docs.lovable.dev/prompting/prompting-library",
+  "type": "prompt-library",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "lovable"
+  ],
+  "description": "Lovable's official prompts plus 20 named style directions with keywords you can reuse anywhere.",
+  "id": "lovable-prompt-library"
+ },
+ {
+  "name": "Techpresso Lovable landing prompts",
+  "url": "https://academy.techpresso.co/prompts/lovable-prompts-landing-pages",
+  "type": "prompt-library",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "lovable"
+  ],
+  "description": "30 copy-paste prompts for landing pages.",
+  "id": "techpresso-lovable-landing-prompts"
+ },
+ {
+  "name": "UI Promptbook",
+  "url": "https://www.producthunt.com/products/ui-promptbook",
+  "type": "prompt-library",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "lovable",
+   "cursor",
+   "bolt",
+   "claude"
+  ],
+  "description": "Copy-paste UI design prompts for vibe-coding tools.",
+  "id": "ui-promptbook"
+ },
+ {
+  "name": "UItoVIBE",
+  "url": "https://www.producthunt.com/products/uitovibe",
+  "type": "prompt-library",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "lovable",
+   "cursor",
+   "bolt",
+   "claude"
+  ],
+  "description": "One-click UI style prompts: pick a visual style and get a prompt for it.",
+  "id": "uitovibe"
+ },
+ {
+  "name": "Kombai Gallery",
+  "url": "https://kombai.com/gallery",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "20,000+ web and mobile screens, flows, sections and patterns, free and organised for use with AI coding agents.",
+  "id": "kombai-gallery"
+ },
+ {
+  "name": "21st.dev",
+  "url": "https://21st.dev",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools"
+  ],
+  "styles": [
+   "motion",
+   "dark",
+   "gradient",
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Community marketplace of shadcn-style React components, each with a ready prompt for AI agents.",
+  "id": "21st-dev"
+ },
+ {
+  "name": "v0 Templates & Community",
+  "url": "https://v0.app/templates",
+  "type": "ai-builder",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal",
+   "dark"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn",
+   "v0"
+  ],
+  "description": "Browse and fork public v0 generations: landing pages, dashboards, apps.",
+  "id": "v0-templates-community"
+ },
+ {
+  "name": "Lovable Templates",
+  "url": "https://lovable.dev/templates",
+  "type": "templates",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "portfolio",
+   "ecommerce"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "lovable"
+  ],
+  "description": "Remixable Lovable projects to start from.",
+  "id": "lovable-templates"
+ },
+ {
+  "name": "Google Stitch",
+  "url": "https://stitch.withgoogle.com",
+  "type": "ai-builder",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "figma",
+   "html-css"
+  ],
+  "description": "Google's AI UI designer: prompt or sketch to web and mobile screens, export to Figma or code.",
+  "id": "google-stitch"
+ },
+ {
+  "name": "Relume",
+  "url": "https://www.relume.io",
+  "type": "ai-builder",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "saas",
+   "startup",
+   "enterprise"
+  ],
+  "styles": [
+   "corporate",
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma",
+   "webflow",
+   "react"
+  ],
+  "description": "AI sitemaps and wireframes plus 1,000+ Figma/Webflow/React components.",
+  "id": "relume"
+ },
+ {
+  "name": "Framer AI & gallery",
+  "url": "https://www.framer.com/gallery",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "saas",
+   "agency",
+   "startup"
+  ],
+  "styles": [
+   "motion",
+   "bold",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "framer"
+  ],
+  "description": "Gallery of sites built in Framer; very motion-forward.",
+  "id": "framer-ai-gallery"
+ },
+ {
+  "name": "Uizard",
+  "url": "https://uizard.io",
+  "type": "ai-builder",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma"
+  ],
+  "description": "AI mockups for web and mobile apps from text or screenshots.",
+  "id": "uizard"
+ },
+ {
+  "name": "Subframe",
+  "url": "https://www.subframe.com",
+  "type": "ai-builder",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal",
+   "corporate"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind"
+  ],
+  "description": "Visual UI editor that outputs production React + Tailwind; good for app UIs.",
+  "id": "subframe"
+ },
+ {
+  "name": "Awwwards",
+  "url": "https://www.awwwards.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio",
+   "ecommerce",
+   "music",
+   "fashion",
+   "architecture"
+  ],
+  "styles": [
+   "motion",
+   "3d",
+   "bold",
+   "editorial"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Jury-judged award site for the most creative websites; filter by category, colour and technology.",
+  "id": "awwwards"
+ },
+ {
+  "name": "The FWA",
+  "url": "https://thefwa.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio",
+   "gaming",
+   "music"
+  ],
+  "styles": [
+   "motion",
+   "3d",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Long-running award gallery for cutting-edge, experimental web work.",
+  "id": "the-fwa"
+ },
+ {
+  "name": "CSS Design Awards",
+  "url": "https://www.cssdesignawards.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "motion",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Award gallery with UI/UX/innovation scores per site.",
+  "id": "css-design-awards"
+ },
+ {
+  "name": "Recent (formerly Godly)",
+  "url": "https://recent.design",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "agency",
+   "portfolio",
+   "startup"
+  ],
+  "styles": [
+   "motion",
+   "dark",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Astronomically good web design with live video previews of each site.",
+  "id": "recent-formerly-godly"
+ },
+ {
+  "name": "Siteinspire",
+  "url": "https://www.siteinspire.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "architecture",
+   "portfolio",
+   "agency",
+   "fashion"
+  ],
+  "styles": [
+   "minimal",
+   "editorial"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Curated showcase filterable by style, type and subject.",
+  "id": "siteinspire"
+ },
+ {
+  "name": "Httpster",
+  "url": "https://httpster.net",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency"
+  ],
+  "styles": [
+   "bold",
+   "editorial",
+   "brutalist"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Totally rocking websites, sorted by type and style.",
+  "id": "httpster"
+ },
+ {
+  "name": "Land-book",
+  "url": "https://land-book.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "portfolio",
+   "ecommerce"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Large gallery of landing pages, filterable by industry, style and colour.",
+  "id": "land-book"
+ },
+ {
+  "name": "Lapa Ninja",
+  "url": "https://www.lapa.ninja",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "ecommerce",
+   "education",
+   "finance",
+   "healthcare"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "7,000+ landing pages by category plus free books and UI kits.",
+  "id": "lapa-ninja"
+ },
+ {
+  "name": "One Page Love",
+  "url": "https://onepagelove.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "events",
+   "personal",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "One-page websites and templates, sorted by category.",
+  "id": "one-page-love"
+ },
+ {
+  "name": "Landingfolio",
+  "url": "https://www.landingfolio.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Landing page inspiration broken into sections (hero, pricing, features) plus components.",
+  "id": "landingfolio"
+ },
+ {
+  "name": "SaaS Landing Page",
+  "url": "https://saaslandingpage.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal",
+   "gradient"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Best SaaS landing pages, browsable by section.",
+  "id": "saas-landing-page"
+ },
+ {
+  "name": "Saaspo",
+  "url": "https://saaspo.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools"
+  ],
+  "styles": [
+   "dark",
+   "gradient",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "SaaS website inspiration with filters by page type and style.",
+  "id": "saaspo"
+ },
+ {
+  "name": "Minimal Gallery",
+  "url": "https://minimal.gallery",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "architecture",
+   "agency"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "The best minimal websites.",
+  "id": "minimal-gallery"
+ },
+ {
+  "name": "Brutalist Websites",
+  "url": "https://brutalistwebsites.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency",
+   "music"
+  ],
+  "styles": [
+   "brutalist",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Raw, unconventional, anti-template websites.",
+  "id": "brutalist-websites"
+ },
+ {
+  "name": "Hoverstat.es",
+  "url": "https://www.hoverstat.es",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "editorial",
+   "bold",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Web design inspiration focused on typography and interaction.",
+  "id": "hoverstat-es"
+ },
+ {
+  "name": "Admire the Web",
+  "url": "https://www.admiretheweb.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Daily curated website screenshots.",
+  "id": "admire-the-web"
+ },
+ {
+  "name": "Made in Webflow",
+  "url": "https://webflow.com/made-in-webflow",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "webflow"
+  ],
+  "description": "Thousands of Webflow sites, many free to clone.",
+  "id": "made-in-webflow"
+ },
+ {
+  "name": "Muzli",
+  "url": "https://muz.li",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Design inspiration feed and curated collections across web, apps and branding.",
+  "id": "muzli"
+ },
+ {
+  "name": "Dribbble",
+  "url": "https://dribbble.com",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Concept shots of web, app and dashboard UI; great for visual ideas, less for shipped reality.",
+  "id": "dribbble"
+ },
+ {
+  "name": "Behance",
+  "url": "https://www.behance.net",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Full case studies of branding, web and app projects.",
+  "id": "behance"
+ },
+ {
+  "name": "Webdesign Inspiration",
+  "url": "https://www.webdesign-inspiration.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Large gallery filterable by industry, style and colour.",
+  "id": "webdesign-inspiration"
+ },
+ {
+  "name": "Maxibestof",
+  "url": "https://maxibestof.one",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "bold",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Curated web design selection updated daily.",
+  "id": "maxibestof"
+ },
+ {
+  "name": "Mindsparkle Mag",
+  "url": "https://mindsparklemag.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio",
+   "fashion"
+  ],
+  "styles": [
+   "editorial",
+   "luxury"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Design magazine featuring websites, branding and video.",
+  "id": "mindsparkle-mag"
+ },
+ {
+  "name": "Dark Mode Design",
+  "url": "https://www.darkmodedesign.com",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "dark"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Showcase of beautiful dark-mode websites.",
+  "id": "dark-mode-design"
+ },
+ {
+  "name": "Typewolf",
+  "url": "https://www.typewolf.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "editorial"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Sites of the day chosen for typography, with the fonts named. Key for not looking generic.",
+  "id": "typewolf"
+ },
+ {
+  "name": "Fonts In Use",
+  "url": "https://fontsinuse.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "editorial"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Archive of typography in the wild, searchable by typeface and industry.",
+  "id": "fonts-in-use"
+ },
+ {
+  "name": "Navbar Gallery",
+  "url": "https://www.navbar.gallery",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Gallery of navigation bars from real sites.",
+  "id": "navbar-gallery"
+ },
+ {
+  "name": "Footer Design",
+  "url": "https://www.footer.design",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Gallery of website footers.",
+  "id": "footer-design"
+ },
+ {
+  "name": "Supahero",
+  "url": "https://www.supahero.io",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Hero section inspiration only.",
+  "id": "supahero"
+ },
+ {
+  "name": "Unsection",
+  "url": "https://www.unsection.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Website section inspiration (hero, testimonials, FAQ, pricing...).",
+  "id": "unsection"
+ },
+ {
+  "name": "SaaS Pages",
+  "url": "https://saaspages.xyz",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "SaaS landing page sections side by side.",
+  "id": "saas-pages"
+ },
+ {
+  "name": "Pricing Pages",
+  "url": "https://pricingpages.design",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Gallery of pricing page designs.",
+  "id": "pricing-pages"
+ },
+ {
+  "name": "Ecomm.design",
+  "url": "https://ecomm.design",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "ecommerce",
+   "fashion",
+   "beauty"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "shopify"
+  ],
+  "description": "Ecommerce site gallery filterable by category, platform and technology.",
+  "id": "ecomm-design"
+ },
+ {
+  "name": "Bestfolios",
+  "url": "https://www.bestfolios.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "personal"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Design portfolios, resumes and case studies.",
+  "id": "bestfolios"
+ },
+ {
+  "name": "Semplice Showcase",
+  "url": "https://www.semplice.com/showcase",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "photography",
+   "architecture"
+  ],
+  "styles": [
+   "editorial",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Designer portfolios built on Semplice.",
+  "id": "semplice-showcase"
+ },
+ {
+  "name": "Cargo",
+  "url": "https://cargo.site",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "photography",
+   "music",
+   "fashion"
+  ],
+  "styles": [
+   "editorial",
+   "brutalist"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Site builder and showcase loved by artists; unusual, non-corporate layouts.",
+  "id": "cargo"
+ },
+ {
+  "name": "Colorlib website examples",
+  "url": "https://colorlib.com/wp/website-examples/",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "restaurant",
+   "real-estate",
+   "legal",
+   "healthcare",
+   "fitness",
+   "education",
+   "nonprofit",
+   "trades",
+   "travel",
+   "photography"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Website examples grouped by industry: restaurants, lawyers, real estate, dentists, gyms and more.",
+  "id": "colorlib-website-examples"
+ },
+ {
+  "name": "SiteBuilderReport inspiration",
+  "url": "https://www.sitebuilderreport.com/inspiration",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "restaurant",
+   "real-estate",
+   "legal",
+   "healthcare",
+   "fitness",
+   "trades",
+   "photography",
+   "events"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Small-business website examples organised by industry.",
+  "id": "sitebuilderreport-inspiration"
+ },
+ {
+  "name": "DesignRush best websites",
+  "url": "https://www.designrush.com/best-designs/websites",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "legal",
+   "finance",
+   "healthcare",
+   "real-estate",
+   "enterprise"
+  ],
+  "styles": [
+   "corporate"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Award-style website gallery with industry categories.",
+  "id": "designrush-best-websites"
+ },
+ {
+  "name": "CodePen",
+  "url": "https://codepen.io",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion",
+   "3d",
+   "playful"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Front-end playground; search for any effect and see the code.",
+  "id": "codepen"
+ },
+ {
+  "name": "Codrops",
+  "url": "https://tympanus.net/codrops",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "motion",
+   "3d"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Cutting-edge web effects and tutorials with source.",
+  "id": "codrops"
+ },
+ {
+  "name": "Site of Sites",
+  "url": "https://www.siteofsites.co",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Curated web design gallery tagged by style.",
+  "id": "site-of-sites"
+ },
+ {
+  "name": "Lapa Ninja Fonts",
+  "url": "https://www.lapa.ninja/fonts/",
+  "type": "fonts",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "editorial"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Font pairings seen on real landing pages.",
+  "id": "lapa-ninja-fonts"
+ },
+ {
+  "name": "SaaSFrame",
+  "url": "https://www.saasframe.io",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools",
+   "finance"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma"
+  ],
+  "description": "Real SaaS screens and flows (dashboards, onboarding, settings) with Figma files.",
+  "id": "saasframe"
+ },
+ {
+  "name": "SaaS UI Design",
+  "url": "https://www.saasui.design",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "finance",
+   "enterprise"
+  ],
+  "styles": [
+   "minimal",
+   "corporate"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "3,500+ screenshots of shipped SaaS apps by screen type.",
+  "id": "saas-ui-design"
+ },
+ {
+  "name": "SaaS Interface",
+  "url": "https://saasinterface.com",
+  "type": "inspiration",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "enterprise"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Curated real SaaS interface patterns.",
+  "id": "saas-interface"
+ },
+ {
+  "name": "Nicelydone",
+  "url": "https://nicelydone.club",
+  "type": "inspiration",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Product flows from the best SaaS apps.",
+  "id": "nicelydone"
+ },
+ {
+  "name": "Page Flows",
+  "url": "https://pageflows.com",
+  "type": "ux-patterns",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "saas",
+   "ecommerce"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "paid",
+  "tech": [],
+  "description": "Recorded user flows (video) of real web and mobile apps.",
+  "id": "page-flows"
+ },
+ {
+  "name": "Refero",
+  "url": "https://refero.design",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma"
+  ],
+  "description": "Huge searchable library of real web and iOS app screens and flows.",
+  "id": "refero"
+ },
+ {
+  "name": "Checklist Design",
+  "url": "https://www.checklist.design",
+  "type": "ux-patterns",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Checklists of what every page, component and flow needs.",
+  "id": "checklist-design"
+ },
+ {
+  "name": "UI Patterns",
+  "url": "https://ui-patterns.com",
+  "type": "ux-patterns",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Classic catalogue of interface design patterns and persuasive patterns.",
+  "id": "ui-patterns"
+ },
+ {
+  "name": "GoodUX by Appcues",
+  "url": "https://goodux.appcues.com",
+  "type": "ux-patterns",
+  "platforms": [
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "saas"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Breakdowns of onboarding and product-led UX.",
+  "id": "goodux-by-appcues"
+ },
+ {
+  "name": "Growth.Design case studies",
+  "url": "https://growth.design/case-studies",
+  "type": "ux-patterns",
+  "platforms": [
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "illustrated",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Comic-style UX psychology case studies of real products.",
+  "id": "growth-design-case-studies"
+ },
+ {
+  "name": "UserOnboard",
+  "url": "https://www.useronboard.com",
+  "type": "ux-patterns",
+  "platforms": [
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Teardowns of real onboarding flows.",
+  "id": "useronboard"
+ },
+ {
+  "name": "Really Good Emails",
+  "url": "https://reallygoodemails.com",
+  "type": "inspiration",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "ecommerce"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Email design gallery (welcome, receipts, newsletters).",
+  "id": "really-good-emails"
+ },
+ {
+  "name": "Component Gallery",
+  "url": "https://component.gallery",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Every common component compared across 90+ real design systems.",
+  "id": "component-gallery"
+ },
+ {
+  "name": "Design Systems Repo",
+  "url": "https://designsystemsrepo.com",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "enterprise"
+  ],
+  "styles": [
+   "corporate"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Directory of public design systems and guidelines.",
+  "id": "design-systems-repo"
+ },
+ {
+  "name": "Adele by UXPin",
+  "url": "https://adele.uxpin.com",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "enterprise"
+  ],
+  "styles": [
+   "corporate"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Repository of publicly available design systems with comparison tables.",
+  "id": "adele-by-uxpin"
+ },
+ {
+  "name": "Tremor",
+  "url": "https://tremor.so",
+  "type": "components",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "finance",
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind"
+  ],
+  "description": "Copy-paste React components for dashboards and charts.",
+  "id": "tremor"
+ },
+ {
+  "name": "Shadcn Admin dashboards (shadcn blocks)",
+  "url": "https://ui.shadcn.com/blocks",
+  "type": "components",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Official shadcn blocks: dashboards, sidebars, login pages.",
+  "id": "shadcn-admin-dashboards-shadcn-blocks"
+ },
+ {
+  "name": "Creative Tim",
+  "url": "https://www.creative-tim.com",
+  "type": "templates",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "enterprise"
+  ],
+  "styles": [
+   "corporate"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "vue",
+   "html-css"
+  ],
+  "description": "Admin dashboards and UI kits, many free.",
+  "id": "creative-tim"
+ },
+ {
+  "name": "Mobbin",
+  "url": "https://mobbin.com",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma"
+  ],
+  "description": "The biggest library of real mobile and web app screens and flows, searchable by pattern.",
+  "id": "mobbin"
+ },
+ {
+  "name": "Screenlane",
+  "url": "https://screenlane.com",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Web and mobile UI screens by app, pattern and component.",
+  "id": "screenlane"
+ },
+ {
+  "name": "Pttrns",
+  "url": "https://www.pttrns.com",
+  "type": "inspiration",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Mobile pattern library (empty states, feeds, navigation).",
+  "id": "pttrns"
+ },
+ {
+  "name": "UI Sources",
+  "url": "https://www.uisources.com",
+  "type": "inspiration",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Real iOS app interactions and flows as video.",
+  "id": "ui-sources"
+ },
+ {
+  "name": "Scrnshts",
+  "url": "https://scrnshts.club",
+  "type": "inspiration",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "App Store screenshot designs from great apps.",
+  "id": "scrnshts"
+ },
+ {
+  "name": "ScreensDesign",
+  "url": "https://screensdesign.com",
+  "type": "inspiration",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Mobile app screens, onboarding and paywall examples, plus guides.",
+  "id": "screensdesign"
+ },
+ {
+  "name": "Collect UI",
+  "url": "https://collectui.com",
+  "type": "inspiration",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Daily UI challenge shots sorted into 200+ categories.",
+  "id": "collect-ui"
+ },
+ {
+  "name": "Spotted in Prod",
+  "url": "https://spottedinprod.com",
+  "type": "inspiration",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Delightful interaction details spotted in shipping apps.",
+  "id": "spotted-in-prod"
+ },
+ {
+  "name": "Apple Human Interface Guidelines",
+  "url": "https://developer.apple.com/design/human-interface-guidelines",
+  "type": "design-system",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "swiftui"
+  ],
+  "description": "Apple's official design guidance for iOS, iPadOS, macOS, watchOS.",
+  "id": "apple-human-interface-guidelines"
+ },
+ {
+  "name": "Apple Design Resources",
+  "url": "https://developer.apple.com/design/resources/",
+  "type": "ui-kit",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "figma",
+   "swiftui"
+  ],
+  "description": "Official iOS/macOS UI kits for Figma and Sketch.",
+  "id": "apple-design-resources"
+ },
+ {
+  "name": "Material Design 3",
+  "url": "https://m3.material.io",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "flutter",
+   "react"
+  ],
+  "description": "Google's design system for Android and the web, with theme builder.",
+  "id": "material-design-3"
+ },
+ {
+  "name": "Tamagui",
+  "url": "https://tamagui.dev",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react-native",
+   "react"
+  ],
+  "description": "Universal UI kit for React Native and web.",
+  "id": "tamagui"
+ },
+ {
+  "name": "gluestack UI",
+  "url": "https://gluestack.io",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react-native",
+   "tailwind"
+  ],
+  "description": "Copy-paste universal components for React Native and web.",
+  "id": "gluestack-ui"
+ },
+ {
+  "name": "NativeWind",
+  "url": "https://www.nativewind.dev",
+  "type": "components",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react-native",
+   "tailwind"
+  ],
+  "description": "Tailwind CSS for React Native.",
+  "id": "nativewind"
+ },
+ {
+  "name": "React Native Reusables",
+  "url": "https://reactnativereusables.com",
+  "type": "components",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react-native",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "shadcn/ui ported to React Native.",
+  "id": "react-native-reusables"
+ },
+ {
+  "name": "React Native Paper",
+  "url": "https://callstack.github.io/react-native-paper/",
+  "type": "components",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react-native"
+  ],
+  "description": "Material Design components for React Native.",
+  "id": "react-native-paper"
+ },
+ {
+  "name": "Flutter Gems",
+  "url": "https://fluttergems.dev",
+  "type": "components",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "flutter"
+  ],
+  "description": "Curated directory of Flutter packages including UI and animation.",
+  "id": "flutter-gems"
+ },
+ {
+  "name": "FlutterFlow Marketplace",
+  "url": "https://marketplace.flutterflow.io",
+  "type": "templates",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "flutter"
+  ],
+  "description": "Mobile app templates and components for FlutterFlow.",
+  "id": "flutterflow-marketplace"
+ },
+ {
+  "name": "Expo",
+  "url": "https://expo.dev",
+  "type": "templates",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "startup"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react-native"
+  ],
+  "description": "React Native framework with app templates and examples.",
+  "id": "expo"
+ },
+ {
+  "name": "AppLaunchpad",
+  "url": "https://theapplaunchpad.com",
+  "type": "mockups",
+  "platforms": [
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "App Store and Google Play screenshot generator.",
+  "id": "applaunchpad"
+ },
+ {
+  "name": "shadcn/ui",
+  "url": "https://ui.shadcn.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "The base copy-paste component set most animated libraries extend.",
+  "id": "shadcn-ui"
+ },
+ {
+  "name": "Aceternity UI",
+  "url": "https://ui.aceternity.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "motion",
+   "3d",
+   "dark",
+   "gradient"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Flashy animated heroes, backgrounds and 3D cards.",
+  "id": "aceternity-ui"
+ },
+ {
+  "name": "Magic UI",
+  "url": "https://magicui.design",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup",
+   "developer-tools"
+  ],
+  "styles": [
+   "motion",
+   "gradient",
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion",
+   "shadcn"
+  ],
+  "description": "Animated SaaS landing components and templates, open source.",
+  "id": "magic-ui"
+ },
+ {
+  "name": "React Bits",
+  "url": "https://reactbits.dev",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency",
+   "gaming"
+  ],
+  "styles": [
+   "motion",
+   "3d",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind"
+  ],
+  "description": "Experimental animated text, backgrounds and components.",
+  "id": "react-bits"
+ },
+ {
+  "name": "Origin UI (coss)",
+  "url": "https://coss.com/origin",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Hundreds of polished shadcn-style components (inputs, tables, steppers).",
+  "id": "origin-ui-coss"
+ },
+ {
+  "name": "Eldora UI",
+  "url": "https://www.eldoraui.site",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Open-source animated components and templates.",
+  "id": "eldora-ui"
+ },
+ {
+  "name": "Animata",
+  "url": "https://animata.design",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Free hand-crafted interaction animations.",
+  "id": "animata"
+ },
+ {
+  "name": "Animate UI",
+  "url": "https://animate-ui.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion",
+   "shadcn"
+  ],
+  "description": "Animated versions of shadcn/Radix primitives.",
+  "id": "animate-ui"
+ },
+ {
+  "name": "Kibo UI",
+  "url": "https://www.kibo-ui.com",
+  "type": "components",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Composable components for complex app UI (kanban, gantt, editors).",
+  "id": "kibo-ui"
+ },
+ {
+  "name": "Cult UI",
+  "url": "https://www.cult-ui.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "startup"
+  ],
+  "styles": [
+   "motion",
+   "playful"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Fun animated shadcn components.",
+  "id": "cult-ui"
+ },
+ {
+  "name": "Motion Primitives",
+  "url": "https://motion-primitives.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion",
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Tasteful motion building blocks.",
+  "id": "motion-primitives"
+ },
+ {
+  "name": "Hover.dev",
+  "url": "https://www.hover.dev",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Animated React components and templates.",
+  "id": "hover-dev"
+ },
+ {
+  "name": "Uiverse",
+  "url": "https://uiverse.io",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "gaming"
+  ],
+  "styles": [
+   "playful",
+   "3d",
+   "glass",
+   "retro"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css",
+   "tailwind"
+  ],
+  "description": "Thousands of community buttons, cards, loaders and toggles in plain CSS or Tailwind.",
+  "id": "uiverse"
+ },
+ {
+  "name": "Skiper UI",
+  "url": "https://skiper-ui.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Uncommon animated components.",
+  "id": "skiper-ui"
+ },
+ {
+  "name": "Smooth UI",
+  "url": "https://smoothui.dev",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Smooth micro-interaction components.",
+  "id": "smooth-ui"
+ },
+ {
+  "name": "Fancy Components",
+  "url": "https://www.fancycomponents.dev",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency"
+  ],
+  "styles": [
+   "playful",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Fun, unusual animated components and effects.",
+  "id": "fancy-components"
+ },
+ {
+  "name": "Syntax UI",
+  "url": "https://syntaxui.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "framer-motion"
+  ],
+  "description": "Animated components and templates.",
+  "id": "syntax-ui"
+ },
+ {
+  "name": "Shadcnblocks",
+  "url": "https://www.shadcnblocks.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Hundreds of shadcn marketing and app blocks.",
+  "id": "shadcnblocks"
+ },
+ {
+  "name": "HyperUI",
+  "url": "https://www.hyperui.dev",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "tailwind",
+   "html-css"
+  ],
+  "description": "Free Tailwind CSS components, no JS framework required.",
+  "id": "hyperui"
+ },
+ {
+  "name": "Flowbite",
+  "url": "https://flowbite.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "corporate",
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "tailwind",
+   "html-css",
+   "react",
+   "vue"
+  ],
+  "description": "Tailwind component library and blocks.",
+  "id": "flowbite"
+ },
+ {
+  "name": "daisyUI",
+  "url": "https://daisyui.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "playful",
+   "minimal",
+   "retro"
+  ],
+  "pricing": "free",
+  "tech": [
+   "tailwind"
+  ],
+  "description": "Tailwind plugin with themeable components and 30+ themes.",
+  "id": "daisyui"
+ },
+ {
+  "name": "Tailwind Plus",
+  "url": "https://tailwindcss.com/plus",
+  "type": "templates",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "paid",
+  "tech": [
+   "tailwind",
+   "react"
+  ],
+  "description": "Official Tailwind UI blocks and templates.",
+  "id": "tailwind-plus"
+ },
+ {
+  "name": "Preline UI",
+  "url": "https://preline.co",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "tailwind",
+   "html-css"
+  ],
+  "description": "Open-source Tailwind components, plus Figma.",
+  "id": "preline-ui"
+ },
+ {
+  "name": "HeroUI",
+  "url": "https://www.heroui.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal",
+   "glass"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind"
+  ],
+  "description": "Beautiful React UI library (formerly NextUI).",
+  "id": "heroui"
+ },
+ {
+  "name": "Mantine",
+  "url": "https://mantine.dev",
+  "type": "components",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "enterprise"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "Full-featured React components and hooks for apps.",
+  "id": "mantine"
+ },
+ {
+  "name": "Chakra UI",
+  "url": "https://chakra-ui.com",
+  "type": "components",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "Accessible React component system.",
+  "id": "chakra-ui"
+ },
+ {
+  "name": "Radix Themes",
+  "url": "https://www.radix-ui.com",
+  "type": "components",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "Accessible primitives and themed components.",
+  "id": "radix-themes"
+ },
+ {
+  "name": "Park UI",
+  "url": "https://park-ui.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "vue"
+  ],
+  "description": "Components built on Ark UI and Panda CSS.",
+  "id": "park-ui"
+ },
+ {
+  "name": "Inspira UI",
+  "url": "https://inspira-ui.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion",
+   "3d"
+  ],
+  "pricing": "free",
+  "tech": [
+   "vue",
+   "tailwind"
+  ],
+  "description": "Animated components for Vue and Nuxt.",
+  "id": "inspira-ui"
+ },
+ {
+  "name": "Nuxt UI",
+  "url": "https://ui.nuxt.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "vue",
+   "tailwind"
+  ],
+  "description": "Official Nuxt component library.",
+  "id": "nuxt-ui"
+ },
+ {
+  "name": "shadcn-svelte",
+  "url": "https://www.shadcn-svelte.com",
+  "type": "components",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "svelte",
+   "tailwind"
+  ],
+  "description": "shadcn/ui for Svelte.",
+  "id": "shadcn-svelte"
+ },
+ {
+  "name": "Cruip",
+  "url": "https://cruip.com",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal",
+   "dark"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react",
+   "tailwind"
+  ],
+  "description": "Landing page templates and free Tailwind snippets.",
+  "id": "cruip"
+ },
+ {
+  "name": "Neobrutalism components",
+  "url": "https://www.neobrutalism.dev",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "startup",
+   "portfolio"
+  ],
+  "styles": [
+   "brutalist",
+   "bold",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "Neo-brutalist shadcn components: thick borders, hard shadows.",
+  "id": "neobrutalism-components"
+ },
+ {
+  "name": "RetroUI",
+  "url": "https://retroui.dev",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "gaming",
+   "portfolio"
+  ],
+  "styles": [
+   "retro",
+   "brutalist",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind"
+  ],
+  "description": "Retro-styled React component library.",
+  "id": "retroui"
+ },
+ {
+  "name": "8bitcn",
+  "url": "https://www.8bitcn.com",
+  "type": "components",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "gaming"
+  ],
+  "styles": [
+   "retro",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "tailwind",
+   "shadcn"
+  ],
+  "description": "8-bit pixel-art styled shadcn components.",
+  "id": "8bitcn"
+ },
+ {
+  "name": "Motion (Framer Motion)",
+  "url": "https://motion.dev",
+  "type": "animation",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "framer-motion"
+  ],
+  "description": "Production animation library for React and JS.",
+  "id": "motion-framer-motion"
+ },
+ {
+  "name": "GSAP",
+  "url": "https://gsap.com",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "motion",
+   "3d"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Pro-grade web animation and scroll effects, now free.",
+  "id": "gsap"
+ },
+ {
+  "name": "LottieFiles",
+  "url": "https://lottiefiles.com",
+  "type": "animation",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "illustrated",
+   "playful",
+   "motion"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react-native",
+   "flutter",
+   "swiftui"
+  ],
+  "description": "Free lightweight vector animations for web and apps.",
+  "id": "lottiefiles"
+ },
+ {
+  "name": "Rive",
+  "url": "https://rive.app/community",
+  "type": "animation",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "gaming"
+  ],
+  "styles": [
+   "motion",
+   "playful",
+   "illustrated"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react-native",
+   "flutter",
+   "swiftui"
+  ],
+  "description": "Interactive state-machine animations; community files to remix.",
+  "id": "rive"
+ },
+ {
+  "name": "Spline",
+  "url": "https://spline.design",
+  "type": "animation",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "saas",
+   "agency",
+   "gaming"
+  ],
+  "styles": [
+   "3d",
+   "playful"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "react"
+  ],
+  "description": "Design interactive 3D scenes for the web in the browser.",
+  "id": "spline"
+ },
+ {
+  "name": "Three.js examples",
+  "url": "https://threejs.org/examples/",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "gaming",
+   "portfolio"
+  ],
+  "styles": [
+   "3d"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Official Three.js demos for WebGL ideas.",
+  "id": "three-js-examples"
+ },
+ {
+  "name": "Unicorn Studio",
+  "url": "https://www.unicorn.studio",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio",
+   "saas"
+  ],
+  "styles": [
+   "motion",
+   "gradient",
+   "3d"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "webflow",
+   "framer"
+  ],
+  "description": "No-code WebGL effects and interactive backgrounds.",
+  "id": "unicorn-studio"
+ },
+ {
+  "name": "Paper Shaders",
+  "url": "https://shaders.paper.design",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "gradient",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "Zero-dependency animated shader backgrounds (mesh gradients, grain).",
+  "id": "paper-shaders"
+ },
+ {
+  "name": "ShaderGradient",
+  "url": "https://www.shadergradient.co",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "gradient",
+   "3d",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "framer"
+  ],
+  "description": "Animated 3D gradient backgrounds.",
+  "id": "shadergradient"
+ },
+ {
+  "name": "Vanta.js",
+  "url": "https://www.vantajs.com",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "3d",
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Animated 3D backgrounds in a few lines.",
+  "id": "vanta-js"
+ },
+ {
+  "name": "Haikei",
+  "url": "https://haikei.app",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "gradient",
+   "illustrated"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Generate unique SVG blobs, waves and layered shapes.",
+  "id": "haikei"
+ },
+ {
+  "name": "Hero Patterns",
+  "url": "https://heropatterns.com",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Repeatable SVG background patterns.",
+  "id": "hero-patterns"
+ },
+ {
+  "name": "Pattern Monster",
+  "url": "https://pattern.monster",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal",
+   "retro"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Customisable SVG pattern generator.",
+  "id": "pattern-monster"
+ },
+ {
+  "name": "BGJar",
+  "url": "https://bgjar.com",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "gradient"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Free SVG background generator.",
+  "id": "bgjar"
+ },
+ {
+  "name": "CSS Gradient",
+  "url": "https://cssgradient.io",
+  "type": "colors",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "gradient"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Gradient generator and inspiration.",
+  "id": "css-gradient"
+ },
+ {
+  "name": "fffuel",
+  "url": "https://www.fffuel.co",
+  "type": "backgrounds",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "gradient",
+   "retro",
+   "illustrated"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Collection of colour and SVG generators (grain, blobs, gradients).",
+  "id": "fffuel"
+ },
+ {
+  "name": "Animista",
+  "url": "https://animista.net",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Pick and tweak ready CSS animations.",
+  "id": "animista"
+ },
+ {
+  "name": "Lenis",
+  "url": "https://lenis.darkroom.engineering",
+  "type": "animation",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css",
+   "react"
+  ],
+  "description": "The smooth-scroll library behind many award sites.",
+  "id": "lenis"
+ },
+ {
+  "name": "Framer Marketplace",
+  "url": "https://www.framer.com/marketplace",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "saas",
+   "agency",
+   "startup",
+   "events"
+  ],
+  "styles": [
+   "motion",
+   "bold",
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "framer"
+  ],
+  "description": "Animated website templates, many free.",
+  "id": "framer-marketplace"
+ },
+ {
+  "name": "Webflow Templates",
+  "url": "https://webflow.com/templates",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "restaurant",
+   "real-estate",
+   "legal",
+   "healthcare",
+   "agency",
+   "portfolio",
+   "saas"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "webflow"
+  ],
+  "description": "Templates filterable by industry.",
+  "id": "webflow-templates"
+ },
+ {
+  "name": "Squarespace Templates",
+  "url": "https://www.squarespace.com/templates",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "restaurant",
+   "photography",
+   "fitness",
+   "events",
+   "personal",
+   "fashion",
+   "beauty"
+  ],
+  "styles": [
+   "minimal",
+   "editorial",
+   "luxury"
+  ],
+  "pricing": "paid",
+  "tech": [],
+  "description": "Industry-sorted templates for small businesses and creatives.",
+  "id": "squarespace-templates"
+ },
+ {
+  "name": "Wix Templates",
+  "url": "https://www.wix.com/website/templates",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "restaurant",
+   "real-estate",
+   "legal",
+   "healthcare",
+   "fitness",
+   "trades",
+   "events",
+   "beauty",
+   "education"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Thousands of templates browsable by occupation.",
+  "id": "wix-templates"
+ },
+ {
+  "name": "Shopify Theme Store",
+  "url": "https://themes.shopify.com",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "ecommerce",
+   "fashion",
+   "beauty"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "shopify"
+  ],
+  "description": "Official ecommerce themes filterable by industry and catalogue size.",
+  "id": "shopify-theme-store"
+ },
+ {
+  "name": "ThemeForest",
+  "url": "https://themeforest.net",
+  "type": "templates",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "paid",
+  "tech": [
+   "html-css",
+   "react",
+   "wordpress"
+  ],
+  "description": "Huge marketplace of site and admin templates for every industry.",
+  "id": "themeforest"
+ },
+ {
+  "name": "Astro Themes",
+  "url": "https://astro.build/themes",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "blog-media",
+   "portfolio",
+   "saas",
+   "personal"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "astro"
+  ],
+  "description": "Official directory of Astro themes.",
+  "id": "astro-themes"
+ },
+ {
+  "name": "Vercel Templates",
+  "url": "https://vercel.com/templates",
+  "type": "templates",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "ecommerce",
+   "blog-media",
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "Starter templates for Next.js and other frameworks.",
+  "id": "vercel-templates"
+ },
+ {
+  "name": "HTML5 UP",
+  "url": "https://html5up.net",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "personal"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Free responsive HTML templates.",
+  "id": "html5-up"
+ },
+ {
+  "name": "Untitled UI",
+  "url": "https://www.untitledui.com",
+  "type": "ui-kit",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma",
+   "react"
+  ],
+  "description": "Massive Figma UI kit and React components.",
+  "id": "untitled-ui"
+ },
+ {
+  "name": "UI8",
+  "url": "https://ui8.net",
+  "type": "ui-kit",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "paid",
+  "tech": [
+   "figma"
+  ],
+  "description": "Marketplace for UI kits, templates and illustrations.",
+  "id": "ui8"
+ },
+ {
+  "name": "Figma Community",
+  "url": "https://www.figma.com/community",
+  "type": "ui-kit",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "figma"
+  ],
+  "description": "Free UI kits, design systems and templates from the community.",
+  "id": "figma-community"
+ },
+ {
+  "name": "Framer University resources",
+  "url": "https://framer.university/resources",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio"
+  ],
+  "styles": [
+   "motion"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "framer"
+  ],
+  "description": "Free Framer components and templates.",
+  "id": "framer-university-resources"
+ },
+ {
+  "name": "Carrd",
+  "url": "https://carrd.co",
+  "type": "templates",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "personal",
+   "events",
+   "portfolio"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Simple one-page sites with clean templates.",
+  "id": "carrd"
+ },
+ {
+  "name": "IBM Carbon",
+  "url": "https://carbondesignsystem.com",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "enterprise",
+   "finance"
+  ],
+  "styles": [
+   "corporate",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "figma"
+  ],
+  "description": "Enterprise design system with data-dense patterns.",
+  "id": "ibm-carbon"
+ },
+ {
+  "name": "Atlassian Design System",
+  "url": "https://atlassian.design",
+  "type": "design-system",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "enterprise",
+   "developer-tools"
+  ],
+  "styles": [
+   "corporate"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "figma"
+  ],
+  "description": "Patterns for collaborative productivity apps.",
+  "id": "atlassian-design-system"
+ },
+ {
+  "name": "Shopify Polaris",
+  "url": "https://shopify.dev/docs/api/polaris",
+  "type": "design-system",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "ecommerce"
+  ],
+  "styles": [
+   "corporate",
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "Admin-app design system and guidelines.",
+  "id": "shopify-polaris"
+ },
+ {
+  "name": "Microsoft Fluent 2",
+  "url": "https://fluent2.microsoft.design",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "enterprise"
+  ],
+  "styles": [
+   "corporate",
+   "glass"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "figma"
+  ],
+  "description": "Microsoft's cross-platform design language.",
+  "id": "microsoft-fluent-2"
+ },
+ {
+  "name": "GitHub Primer",
+  "url": "https://primer.style",
+  "type": "design-system",
+  "platforms": [
+   "web-app"
+  ],
+  "occupations": [
+   "developer-tools"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react"
+  ],
+  "description": "GitHub's design system for dev tools.",
+  "id": "github-primer"
+ },
+ {
+  "name": "GOV.UK Design System",
+  "url": "https://design-system.service.gov.uk",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "nonprofit",
+   "legal",
+   "healthcare"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Gold standard for accessible public-service forms and flows.",
+  "id": "gov-uk-design-system"
+ },
+ {
+  "name": "U.S. Web Design System",
+  "url": "https://designsystem.digital.gov",
+  "type": "design-system",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "nonprofit",
+   "legal",
+   "healthcare"
+  ],
+  "styles": [
+   "corporate"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Accessible patterns for government and civic sites.",
+  "id": "u-s-web-design-system"
+ },
+ {
+  "name": "Google Fonts",
+  "url": "https://fonts.google.com",
+  "type": "fonts",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Free open-source fonts.",
+  "id": "google-fonts"
+ },
+ {
+  "name": "Fontshare",
+  "url": "https://www.fontshare.com",
+  "type": "fonts",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "editorial",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Free quality fonts from Indian Type Foundry, less overused than Google defaults.",
+  "id": "fontshare"
+ },
+ {
+  "name": "Uncut",
+  "url": "https://uncut.wtf",
+  "type": "fonts",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency"
+  ],
+  "styles": [
+   "editorial",
+   "brutalist"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Curated free contemporary typefaces.",
+  "id": "uncut"
+ },
+ {
+  "name": "Collletttivo",
+  "url": "https://www.collletttivo.it",
+  "type": "fonts",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "agency"
+  ],
+  "styles": [
+   "editorial",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Open-source fonts from an Italian type collective.",
+  "id": "collletttivo"
+ },
+ {
+  "name": "Velvetyne",
+  "url": "https://velvetyne.fr",
+  "type": "fonts",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "portfolio",
+   "music"
+  ],
+  "styles": [
+   "brutalist",
+   "retro",
+   "bold"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Libre, experimental display typefaces.",
+  "id": "velvetyne"
+ },
+ {
+  "name": "Pangram Pangram",
+  "url": "https://pangrampangram.com",
+  "type": "fonts",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "agency",
+   "portfolio",
+   "fashion"
+  ],
+  "styles": [
+   "editorial",
+   "luxury"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Contemporary foundry with free trial licences.",
+  "id": "pangram-pangram"
+ },
+ {
+  "name": "Coolors",
+  "url": "https://coolors.co",
+  "type": "colors",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Palette generator and explorer.",
+  "id": "coolors"
+ },
+ {
+  "name": "Realtime Colors",
+  "url": "https://www.realtimecolors.com",
+  "type": "colors",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "tailwind"
+  ],
+  "description": "Preview a palette and fonts on a real page, export to Tailwind/CSS.",
+  "id": "realtime-colors"
+ },
+ {
+  "name": "Huemint",
+  "url": "https://huemint.com",
+  "type": "colors",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Machine-learning palettes previewed on brand and web mockups.",
+  "id": "huemint"
+ },
+ {
+  "name": "Happy Hues",
+  "url": "https://www.happyhues.co",
+  "type": "colors",
+  "platforms": [
+   "website"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Palettes shown in context on a real layout.",
+  "id": "happy-hues"
+ },
+ {
+  "name": "uicolors",
+  "url": "https://uicolors.app",
+  "type": "colors",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "tailwind"
+  ],
+  "description": "Generate Tailwind colour scales from one hex.",
+  "id": "uicolors"
+ },
+ {
+  "name": "Radix Colors",
+  "url": "https://www.radix-ui.com/colors",
+  "type": "colors",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "html-css"
+  ],
+  "description": "Accessible colour scales with dark mode.",
+  "id": "radix-colors"
+ },
+ {
+  "name": "Lucide",
+  "url": "https://lucide.dev",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "react-native",
+   "vue",
+   "svelte"
+  ],
+  "description": "Clean open-source icon set.",
+  "id": "lucide"
+ },
+ {
+  "name": "Phosphor Icons",
+  "url": "https://phosphoricons.com",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "vue",
+   "flutter",
+   "swiftui"
+  ],
+  "description": "Flexible icon family with 6 weights; a less-default alternative.",
+  "id": "phosphor-icons"
+ },
+ {
+  "name": "Heroicons",
+  "url": "https://heroicons.com",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "vue"
+  ],
+  "description": "Tailwind team's SVG icons.",
+  "id": "heroicons"
+ },
+ {
+  "name": "Iconoir",
+  "url": "https://iconoir.com",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "react-native",
+   "flutter"
+  ],
+  "description": "1,500+ free icons.",
+  "id": "iconoir"
+ },
+ {
+  "name": "Tabler Icons",
+  "url": "https://tabler.io/icons",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "minimal"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "vue",
+   "svelte"
+  ],
+  "description": "5,000+ free stroke icons.",
+  "id": "tabler-icons"
+ },
+ {
+  "name": "Streamline",
+  "url": "https://www.streamlinehq.com",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed",
+   "illustrated"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma"
+  ],
+  "description": "Icons, illustrations and emoji in many styles.",
+  "id": "streamline"
+ },
+ {
+  "name": "Iconify",
+  "url": "https://icon-sets.iconify.design",
+  "type": "icons",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [
+   "react",
+   "vue",
+   "svelte"
+  ],
+  "description": "Search 200,000+ icons from every open set.",
+  "id": "iconify"
+ },
+ {
+  "name": "unDraw",
+  "url": "https://undraw.co",
+  "type": "illustrations",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "saas",
+   "startup"
+  ],
+  "styles": [
+   "illustrated"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Free recolourable illustrations (overused; tweak them).",
+  "id": "undraw"
+ },
+ {
+  "name": "Storyset",
+  "url": "https://storyset.com",
+  "type": "illustrations",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "illustrated",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Customisable, animatable illustrations.",
+  "id": "storyset"
+ },
+ {
+  "name": "Open Peeps",
+  "url": "https://www.openpeeps.com",
+  "type": "illustrations",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "illustrated",
+   "playful"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Hand-drawn people illustration library.",
+  "id": "open-peeps"
+ },
+ {
+  "name": "Blush",
+  "url": "https://blush.design",
+  "type": "illustrations",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "illustrated",
+   "playful"
+  ],
+  "pricing": "freemium",
+  "tech": [
+   "figma"
+  ],
+  "description": "Mix-and-match illustration collections from many artists.",
+  "id": "blush"
+ },
+ {
+  "name": "Humaaans",
+  "url": "https://www.humaaans.com",
+  "type": "illustrations",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "illustrated"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Mix-and-match people illustrations.",
+  "id": "humaaans"
+ },
+ {
+  "name": "Unsplash",
+  "url": "https://unsplash.com",
+  "type": "photos",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Free high-quality photos; real photography beats stock-AI imagery.",
+  "id": "unsplash"
+ },
+ {
+  "name": "Pexels",
+  "url": "https://www.pexels.com",
+  "type": "photos",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "free",
+  "tech": [],
+  "description": "Free photos and videos.",
+  "id": "pexels"
+ },
+ {
+  "name": "Shots",
+  "url": "https://shots.so",
+  "type": "mockups",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Beautiful device and browser mockups from screenshots.",
+  "id": "shots"
+ },
+ {
+  "name": "Rotato",
+  "url": "https://rotato.app",
+  "type": "mockups",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "3d"
+  ],
+  "pricing": "paid",
+  "tech": [],
+  "description": "Animated 3D device mockups.",
+  "id": "rotato"
+ },
+ {
+  "name": "Mockuuups Studio",
+  "url": "https://mockuuups.studio",
+  "type": "mockups",
+  "platforms": [
+   "website",
+   "web-app",
+   "mobile"
+  ],
+  "occupations": [
+   "all"
+  ],
+  "styles": [
+   "mixed"
+  ],
+  "pricing": "freemium",
+  "tech": [],
+  "description": "Realistic device mockups in context.",
+  "id": "mockuuups-studio"
+ }
+]
