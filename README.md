@@ -87,6 +87,9 @@ on 2026-11-27.
 - **Copy as AI brief** turns the current results into a prompt you can paste into any AI tool.
 - **A Claude Code skill** that searches the catalog (`search.py`), studies the best matches, writes a design brief
   before any code, and checks the result against a list of **AI tells**.
+- **MCP servers, in their own view**: 15 entries have an MCP server Claude can use (shadcn/ui, Untitled UI,
+  HeroUI, 21st.dev, Mobbin, Refero, MotionSites, Figma, Framer, Webflow and more). The **MCP servers you can add to
+  Claude** button shows just those, free ones first, each with a copyable install command.
 - **General resources stay visible**: entries tagged for every industry or mixed styles still match a filter, ranked
   below specific ones (turn that off with `--specific-only` in `search.py`).
 
@@ -114,6 +117,24 @@ python3 skill/look-like-ai-no-more/search.py --platform website --occupation res
 ```
 
 `--facets` lists every valid tag; `--json` prints machine-readable results.
+
+### Add the free MCP servers
+
+These three need no account. Magic UI and React Bits work through the shadcn one.
+
+```bash
+claude mcp add shadcn -- npx shadcn@latest mcp
+```
+
+```bash
+claude mcp add --transport http untitledui https://www.untitledui.com/react/api/mcp
+```
+
+```bash
+claude mcp add heroui-react -- npx -y @heroui/react-mcp@latest
+```
+
+The rest are listed with `search.py --mcp` and on the site.
 
 ### Uninstall
 

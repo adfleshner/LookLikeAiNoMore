@@ -44,6 +44,22 @@ with `python3 -m http.server`).
    signature detail, motion rules, and which components come from where.
 6. **Build**, then check it against the "AI tells" list below and fix any you hit.
 
+## MCP servers
+
+15 entries have an MCP server Claude can use (`mcp` field: `access` is `free`, `account` or
+`paid`, plus `install`, `docs` and `note`). List them with:
+
+```bash
+python3 ~/.claude/skills/look-like-ai-no-more/search.py --mcp
+```
+
+- If one is already connected (tools such as `mcp__shadcn__*`, `mcp__untitledui__*`,
+  `mcp__heroui-react__*`), use it to fetch real component code instead of writing components
+  from memory. Magic UI and React Bits work through the shadcn MCP once their registry is added
+  to `components.json`.
+- Never install an `account` or `paid` server, or sign in to one, without the user asking; suggest
+  it with its install line instead.
+
 ## AI tells to avoid
 
 - Purple/indigo/blue gradients and glowing blobs with no reason to exist
@@ -61,8 +77,8 @@ industry-specific content, and one deliberate motion idea.
 ## Catalog fields
 
 Each entry has `id`, `name`, `url`, `type`, `platforms[]`, `occupations[]` (`all` means general),
-`styles[]` (`mixed` means varied), `pricing` (`free` | `freemium` | `paid`), `tech[]` and
-`description`.
+`styles[]` (`mixed` means varied), `pricing` (`free` | `freemium` | `paid`), `tech[]`,
+`description`, and optionally `mcp`.
 
 Types: `prompt-library`, `ai-builder`, `inspiration`, `ux-patterns`, `components`, `templates`,
 `design-system`, `animation`, `backgrounds`, `ui-kit`, `fonts`, `colors`, `icons`,

@@ -33,6 +33,8 @@ def main():
     for flag in FIELDS:
         ap.add_argument(f"--{flag}", action="append", default=[], help="repeat or comma-separate to OR values")
     ap.add_argument("--specific-only", action="store_true", help="drop general-purpose entries (occupation 'all', style 'mixed') when filtering by occupation or style")
+    ap.add_argument("--mcp", nargs="?", const="any", choices=["any", "free", "account", "paid"],
+                    help="only entries with an MCP server for Claude (optionally by access level)")
     ap.add_argument("--limit", type=int, default=30)
     ap.add_argument("--json", action="store_true")
     ap.add_argument("--facets", action="store_true", help="list every filter value with counts")
@@ -53,6 +55,8 @@ def main():
     terms = [t.lower() for t in a.query]
     results = []
     for s in sites:
+        if a.mcp and not (s.get("mcp") and a.mcp in ("any", s["mcp"]["access"])):
+            continue
         score = 1
         ok = True
         for key, sel in want.items():
@@ -84,6 +88,9 @@ def main():
     for s in picked:
         occ = "general" if "all" in s["occupations"] else ",".join(s["occupations"][:4])
         print(f"- {s['name']} <{s['url']}> [{s['type']}; {s['pricing']}; {','.join(s['platforms'])}; {occ}; {','.join(s['styles'])}]\n    {s['description']}")
+        if s.get("mcp"):
+            m = s["mcp"]
+            print(f"    MCP ({m['access']}): {m['note']}\n      install: {m['install']}\n      docs: {m['docs']}")
 
 
 if __name__ == "__main__":

@@ -27,7 +27,13 @@
    "claude"
   ],
   "description": "The reference point: copy-paste prompts for animated landing pages and hero sections, made for AI builders.",
-  "id": "motionsites"
+  "id": "motionsites",
+  "mcp": {
+   "access": "account",
+   "install": "claude mcp add --transport http motionsites https://motionsites.ai/api/mcp",
+   "docs": "https://motionsites.ai/mcp",
+   "note": "Its design prompts plus site building. Free account gets 3 prompts; paid plans unlock all."
+  }
  },
  {
   "name": "VibUI",
@@ -199,7 +205,13 @@
    "react"
   ],
   "description": "20,000+ web and mobile screens, flows, sections and patterns, free and organised for use with AI coding agents.",
-  "id": "kombai-gallery"
+  "id": "kombai-gallery",
+  "mcp": {
+   "access": "account",
+   "install": "See the Claude Code section of the Kombai MCP docs",
+   "docs": "https://kombai.com/mcp",
+   "note": "Design decisions and design-system extraction from your codebase. Free to start."
+  }
  },
  {
   "name": "21st.dev",
@@ -227,7 +239,13 @@
    "shadcn"
   ],
   "description": "Community marketplace of shadcn-style React components, each with a ready prompt for AI agents.",
-  "id": "21st-dev"
+  "id": "21st-dev",
+  "mcp": {
+   "access": "account",
+   "install": "npx @21st-dev/cli@latest init --client claude",
+   "docs": "https://21st.dev/mcp",
+   "note": "Search 12,000+ React components and logos with a free API key; fetching code and generating are paid."
+  }
  },
  {
   "name": "v0 Templates & Community",
@@ -401,7 +419,13 @@
    "tailwind"
   ],
   "description": "Visual UI editor that outputs production React + Tailwind; good for app UIs.",
-  "id": "subframe"
+  "id": "subframe",
+  "mcp": {
+   "access": "account",
+   "install": "Claude connector: Subframe (https://mcp.subframe.com/mcp)",
+   "docs": "https://www.subframe.com",
+   "note": "Design and edit UI on the Subframe canvas from chat."
+  }
  },
  {
   "name": "Awwwards",
@@ -1415,7 +1439,13 @@
    "figma"
   ],
   "description": "Huge searchable library of real web and iOS app screens and flows.",
-  "id": "refero"
+  "id": "refero",
+  "mcp": {
+   "access": "paid",
+   "install": "claude mcp add --transport http refero https://api.refero.design/mcp",
+   "docs": "https://doc.refero.design/",
+   "note": "Search websites, iOS apps, styles and flows. Paid plan; 8,000 calls a month."
+  }
  },
  {
   "name": "Checklist Design",
@@ -1684,7 +1714,13 @@
    "figma"
   ],
   "description": "The biggest library of real mobile and web app screens and flows, searchable by pattern.",
-  "id": "mobbin"
+  "id": "mobbin",
+  "mcp": {
+   "access": "paid",
+   "install": "claude mcp add --transport http mobbin https://api.mobbin.com/mcp",
+   "docs": "https://mobbin.com/mcp",
+   "note": "Search real app screens, flows and website sections. Pro plan or higher; OAuth sign-in."
+  }
  },
  {
   "name": "Screenlane",
@@ -2089,7 +2125,13 @@
    "shadcn"
   ],
   "description": "The base copy-paste component set most animated libraries extend.",
-  "id": "shadcn-ui"
+  "id": "shadcn-ui",
+  "mcp": {
+   "access": "free",
+   "install": "claude mcp add shadcn -- npx shadcn@latest mcp",
+   "docs": "https://ui.shadcn.com/docs/mcp",
+   "note": "Browse, search and install components from any shadcn-compatible registry."
+  }
  },
  {
   "name": "Aceternity UI",
@@ -2144,7 +2186,13 @@
    "shadcn"
   ],
   "description": "Animated SaaS landing components and templates, open source.",
-  "id": "magic-ui"
+  "id": "magic-ui",
+  "mcp": {
+   "access": "free",
+   "install": "Use the shadcn MCP, then add \"@magicui\": \"https://magicui.design/r/{name}.json\" to registries in components.json",
+   "docs": "https://magicui.design/docs/mcp",
+   "note": "Works through the shadcn MCP as a registry."
+  }
  },
  {
   "name": "React Bits",
@@ -2169,7 +2217,13 @@
    "tailwind"
   ],
   "description": "Experimental animated text, backgrounds and components.",
-  "id": "react-bits"
+  "id": "react-bits",
+  "mcp": {
+   "access": "free",
+   "install": "Use the shadcn MCP, then add \"@react-bits\": \"https://reactbits.dev/r/{name}.json\" to registries in components.json",
+   "docs": "https://reactbits.dev/get-started/mcp",
+   "note": "Works through the shadcn MCP as a registry."
+  }
  },
  {
   "name": "Origin UI (coss)",
@@ -2632,7 +2686,13 @@
    "tailwind"
   ],
   "description": "Beautiful React UI library (formerly NextUI).",
-  "id": "heroui"
+  "id": "heroui",
+  "mcp": {
+   "access": "free",
+   "install": "claude mcp add heroui-react -- npx -y @heroui/react-mcp@latest",
+   "docs": "https://www.heroui.com/en/docs/react/getting-started/mcp-server",
+   "note": "Component docs, props, source and theme variables for HeroUI v3. Needs Node 22+."
+  }
  },
  {
   "name": "Mantine",
@@ -3297,7 +3357,13 @@
    "framer"
   ],
   "description": "Animated website templates, many free.",
-  "id": "framer-marketplace"
+  "id": "framer-marketplace",
+  "mcp": {
+   "access": "account",
+   "install": "Claude connector: Framer (https://mcp.framer.com/mcp)",
+   "docs": "https://www.framer.com/developers/mcp",
+   "note": "Design, update and publish your Framer sites."
+  }
  },
  {
   "name": "Webflow Templates",
@@ -3323,7 +3389,13 @@
    "webflow"
   ],
   "description": "Templates filterable by industry.",
-  "id": "webflow-templates"
+  "id": "webflow-templates",
+  "mcp": {
+   "access": "account",
+   "install": "Claude connector: Webflow (https://mcp.webflow.com/mcp)",
+   "docs": "https://developers.webflow.com/mcp/reference/getting-started",
+   "note": "Build pages, manage CMS and publish your Webflow sites."
+  }
  },
  {
   "name": "Squarespace Templates",
@@ -3397,7 +3469,13 @@
    "shopify"
   ],
   "description": "Official ecommerce themes filterable by industry and catalogue size.",
-  "id": "shopify-theme-store"
+  "id": "shopify-theme-store",
+  "mcp": {
+   "access": "account",
+   "install": "Claude connector: Shopify (https://setup.shopify.com/mcp)",
+   "docs": "https://shopify.dev/docs/apps/build/devmcp",
+   "note": "Build, manage and analyse your Shopify store."
+  }
  },
  {
   "name": "ThemeForest",
@@ -3511,7 +3589,13 @@
    "react"
   ],
   "description": "Massive Figma UI kit and React components.",
-  "id": "untitled-ui"
+  "id": "untitled-ui",
+  "mcp": {
+   "access": "free",
+   "install": "claude mcp add --transport http untitledui https://www.untitledui.com/react/api/mcp",
+   "docs": "https://www.untitledui.com/react/integrations/mcp",
+   "note": "Search components, page templates and icons. Free components need no account; PRO components need a licence."
+  }
  },
  {
   "name": "UI8",
@@ -3555,7 +3639,13 @@
    "figma"
   ],
   "description": "Free UI kits, design systems and templates from the community.",
-  "id": "figma-community"
+  "id": "figma-community",
+  "mcp": {
+   "access": "account",
+   "install": "Claude connector: Figma (https://mcp.figma.com/mcp)",
+   "docs": "https://www.figma.com/",
+   "note": "Design context and screenshots from your own Figma files."
+  }
  },
  {
   "name": "Framer University resources",
